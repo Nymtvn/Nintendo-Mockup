@@ -202,18 +202,20 @@ a {
     width: 20px;
 }
 
-.main {
-    display: flex;
-    flex-direction: flex-row;
-    justify-content: center;
-}
-
 .mobile {
     display: flex;
 }
 
 .desktop {
     display: none;
+}
+
+.xmas {
+    max-width: 100%;
+}
+
+.nima {
+    margin: 50px;
 }
 
 .pokemon_sv a {
